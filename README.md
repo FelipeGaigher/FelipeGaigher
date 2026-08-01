@@ -4,8 +4,6 @@
 
 Trabalho com produtos digitais há mais de 5 anos, hoje focado em ferramentas internas, dashboards e design systems para o setor de energia solar. Paralelamente, construo meus próprios produtos: SaaS por assinatura, do Figma ao deploy, incluindo autenticação, billing, chatbot com IA e automações.
 
-Meu diferencial é o meio de campo: penso o produto no design e levo até produção, sem depender de handoff.
-
 ### No que estou trabalhando
 
 - Um SaaS por assinatura para o mercado de hospedagem
